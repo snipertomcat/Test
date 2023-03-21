@@ -4,7 +4,7 @@
 
 To install app: 
 
-1. clone repo
+1. clone repo & copy the `.env.example` file to `.env`
 2. run `composer install `
 3. run `./vendor/bin/sail up`
 4. run `./vendor/bin/sail composer install`
